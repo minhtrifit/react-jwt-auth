@@ -1,0 +1,1 @@
+npm install express express-handlebars nodemon body-parser express-session multer pg-promise bcrypt passport passport-local --save

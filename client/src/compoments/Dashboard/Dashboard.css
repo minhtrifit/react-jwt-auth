@@ -1,0 +1,22 @@
+.dashboard {
+    width: 50vw;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: center;
+    /* background-color: red; */
+}
+
+.dashboard-title {
+    align-self: flex-start;
+    margin-left: 100px;
+    /* color: red; */
+}
+
+.dashboard-action {
+    width: 160px;
+    display: flex;
+    justify-content: space-between;
+    /* background-color: red; */
+}
